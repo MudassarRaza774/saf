@@ -1,0 +1,41 @@
+{
+  "students": [
+    {
+      "name": "simple name",
+      "gender": "Female",
+      "dob": "2000-01-01",
+      "groups": [
+        "Web Designer"
+      ],
+      "id": 1
+    },
+    {
+      "name": "olooollo",
+      "gender": "Male",
+      "dob": "2000-01-01",
+      "groups": [
+        "Web Designer"
+      ],
+      "id": 2
+    },
+    {
+      "name": "hh",
+      "gender": "Male",
+      "dob": "2000-01-01",
+      "groups": [
+        "Web Designers"
+      ],
+      "id": 4
+    },
+    {
+      "name": "this man",
+      "gender": "Other",
+      "dob": "2000-01-01",
+      "groups": [
+        "Lame Gamer Boys",
+        "Black Magicians"
+      ],
+      "id": 5
+    }
+  ]
+}
